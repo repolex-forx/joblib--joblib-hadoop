@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/joblib/joblib-hadoop/commit/5ab445b66f3fe95eb023417f4951253a65898bb0",
       "git:hexsha": "5ab445b66f3fe95eb023417f4951253a65898bb0",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T20:15:28.954782+00:00"
     }
   ]
 }
