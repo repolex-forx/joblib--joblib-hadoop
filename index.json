@@ -1,0 +1,11 @@
+{
+  "org": "joblib",
+  "repo": "joblib-hadoop",
+  "versions": [
+    {
+      "commit": "5ab445b66f3fe95eb023417f4951253a65898bb0",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:15:29.095636+00:00"
+    }
+  ]
+}
